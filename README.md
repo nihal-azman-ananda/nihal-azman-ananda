@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal-azman-ananda&label=Profile%20views&color=0e75b6&style=flat" alt="nihal-azman-ananda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihal-azman-ananda" alt="nihal-azman-ananda" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihal-azman-ananda" alt="nihal-azman-ananda" /></a> </p> -->
 
 - 🔭 I’m currently working on **my MS in Computer Engineering @ Clemson University**
 
